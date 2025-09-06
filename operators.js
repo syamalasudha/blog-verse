@@ -1,4 +1,4 @@
-Arithmetic operators
+//Arithmetic operators
 let x=5,y=6;
 console.log(x+y)
 console.log(x-y)
