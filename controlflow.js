@@ -1,4 +1,4 @@
-/*let marks=85;
+let marks=85;
 if(marks>=90){
     console.log("A+ Grade")
 }else if(marks>=80){
@@ -47,7 +47,7 @@ while(j<=5){
  do{
     console.log(k)
     k++
- } while(k<=5);*/
+ } while(k<=5);
   let colors=["Red","Blue","Green"]
   for(let i=0;i<colors.length;i++){
     console.log(colors[i]);
